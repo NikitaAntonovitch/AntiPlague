@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3207e9cc-d386-4a51-b9a8-2796eb71b02f" name="Changes" comment="finished graphics" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2qIsXoIpNYyZOcEt4uUFLKR4gHc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/4work/study/GUI_Project_2/AntiPlague",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\4work\study\GUI_Progect_2\AntiPlague\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AntiPlague" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3207e9cc-d386-4a51-b9a8-2796eb71b02f" name="Changes" comment="" />
+      <created>1734361467762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734361467762</updated>
+      <workItem from="1734361468900" duration="53247000" />
+      <workItem from="1734599013544" duration="17564000" />
+      <workItem from="1734695253264" duration="9544000" />
+      <workItem from="1734710336909" duration="18890000" />
+      <workItem from="1734781762784" duration="70523000" />
+      <workItem from="1735158760677" duration="76615000" />
+      <workItem from="1735573189766" duration="1815000" />
+      <workItem from="1735634332398" duration="710000" />
+      <workItem from="1735635249039" duration="96566000" />
+      <workItem from="1736179103179" duration="1153000" />
+      <workItem from="1736280002082" duration="45490000" />
+      <workItem from="1736671342225" duration="1428000" />
+      <workItem from="1736672794224" duration="18637000" />
+      <workItem from="1736806156526" duration="39359000" />
+      <workItem from="1737058225275" duration="274000" />
+      <workItem from="1737058737354" duration="65000" />
+      <workItem from="1737058820822" duration="3090000" />
+      <workItem from="1737062292650" duration="44000" />
+      <workItem from="1737062387607" duration="24000" />
+      <workItem from="1737062451418" duration="43000" />
+      <workItem from="1737062546745" duration="687000" />
+      <workItem from="1737063321501" duration="218000" />
+      <workItem from="1737063607288" duration="40000" />
+      <workItem from="1737063693431" duration="29000" />
+      <workItem from="1737063783544" duration="26000" />
+      <workItem from="1737064519024" duration="4092000" />
+      <workItem from="1737103157948" duration="985000" />
+      <workItem from="1738009673654" duration="507000" />
+      <workItem from="1739871723071" duration="2923000" />
+      <workItem from="1739880454946" duration="8373000" />
+      <workItem from="1739963642415" duration="177000" />
+      <workItem from="1739964061258" duration="2221000" />
+      <workItem from="1739970712111" duration="42000" />
+      <workItem from="1739970777141" duration="77000" />
+      <workItem from="1739972046348" duration="501000" />
+      <workItem from="1739973866158" duration="1797000" />
+      <workItem from="1740319210658" duration="1610000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st initial version">
+      <option name="closed" value="true" />
+      <created>1735220349516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735220349516</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st initial version">
+      <option name="closed" value="true" />
+      <created>1735220478114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735220478114</updated>
+    </task>
+    <task id="LOCAL-00003" summary="slider change">
+      <option name="closed" value="true" />
+      <created>1735319745462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735319745462</updated>
+    </task>
+    <task id="LOCAL-00004" summary="slider change">
+      <option name="closed" value="true" />
+      <created>1735393062662</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735393062662</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finished bound logic">
+      <option name="closed" value="true" />
+      <created>1735465019388</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735465019388</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added common labels">
+      <option name="closed" value="true" />
+      <created>1735493468609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735493468609</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update label's color">
+      <option name="closed" value="true" />
+      <created>1735563157280</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735563157281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="made logic to update checkboxes and slider">
+      <option name="closed" value="true" />
+      <created>1735853838191</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735853838191</updated>
+    </task>
+    <task id="LOCAL-00009" summary="made logic for interrupt spread virus between countries and take payment">
+      <option name="closed" value="true" />
+      <created>1735914465559</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735914465559</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added JDialog to the end of the game">
+      <option name="closed" value="true" />
+      <created>1735983744464</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735983744464</updated>
+    </task>
+    <task id="LOCAL-00011" summary="save the Game">
+      <option name="closed" value="true" />
+      <created>1736093879627</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736093879627</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added 2 levels">
+      <option name="closed" value="true" />
+      <created>1736095369600</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736095369600</updated>
+    </task>
+    <task id="LOCAL-00013" summary="made JList of top players - replaced JTable">
+      <option name="closed" value="true" />
+      <created>1736101715167</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736101715167</updated>
+    </task>
+    <task id="LOCAL-00014" summary="made logic won or lose">
+      <option name="closed" value="true" />
+      <created>1736108771895</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736108771895</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added diagonal way">
+      <option name="closed" value="true" />
+      <created>1736348475338</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736348475338</updated>
+    </task>
+    <task id="LOCAL-00016" summary="some small changes">
+      <option name="closed" value="true" />
+      <created>1736349210737</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736349210737</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added some ways between countries">
+      <option name="closed" value="true" />
+      <created>1736431042484</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736431042484</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added new enum class and rewrite direction code">
+      <option name="closed" value="true" />
+      <created>1736459184845</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736459184845</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added new comments">
+      <option name="closed" value="true" />
+      <created>1736673696858</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736673696858</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added scrolling functionality">
+      <option name="closed" value="true" />
+      <created>1736679328466</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736679328466</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add ways">
+      <option name="closed" value="true" />
+      <created>1736690983106</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1736690983106</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added option to for prohibit to choose second region for spread virus">
+      <option name="closed" value="true" />
+      <created>1736880088606</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736880088606</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added functionality when money = 0 interrupt the game">
+      <option name="closed" value="true" />
+      <created>1736883960047</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1736883960047</updated>
+    </task>
+    <task id="LOCAL-00024" summary="modify Label GAME OVER">
+      <option name="closed" value="true" />
+      <created>1736891257067</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1736891257067</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Budget fixes">
+      <option name="closed" value="true" />
+      <created>1736965141725</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1736965141725</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add lose and win functionalities">
+      <option name="closed" value="true" />
+      <created>1736974982700</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1736974982700</updated>
+    </task>
+    <task id="LOCAL-00027" summary="finished graphics">
+      <option name="closed" value="true" />
+      <created>1737065009998</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065009998</updated>
+    </task>
+    <task id="LOCAL-00028" summary="finished graphics">
+      <option name="closed" value="true" />
+      <created>1740319487607</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1740319487607</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="slider change" />
+    <MESSAGE value="added share infection by travel ways" />
+    <MESSAGE value="finished bound logic" />
+    <MESSAGE value="added common labels" />
+    <MESSAGE value="update label's color" />
+    <MESSAGE value="made logic to update checkboxes and slider" />
+    <MESSAGE value="made logic for interrupt spread virus between countries and take payment" />
+    <MESSAGE value="added JDialog to the end of the game" />
+    <MESSAGE value="save the Game" />
+    <MESSAGE value="added 2 levels" />
+    <MESSAGE value="made JList of top players - replaced JTable" />
+    <MESSAGE value="made logic won or lose" />
+    <MESSAGE value="added diagonal way" />
+    <MESSAGE value="some small changes" />
+    <MESSAGE value="added some ways between countries" />
+    <MESSAGE value="added new enum class and rewrite direction code" />
+    <MESSAGE value="added new comments" />
+    <MESSAGE value="added scrolling functionality" />
+    <MESSAGE value="add ways" />
+    <MESSAGE value="added option to for prohibit to choose second region for spread virus" />
+    <MESSAGE value="added functionality when money = 0 interrupt the game" />
+    <MESSAGE value="modify Label GAME OVER" />
+    <MESSAGE value="Budget fixes" />
+    <MESSAGE value="add lose and win functionalities" />
+    <MESSAGE value="finished graphics" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished graphics" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GameWindow_ctrl.java</url>
+          <line>467</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
